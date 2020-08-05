@@ -1,6 +1,6 @@
 # Calculator
 
-This is a Kotlin application for parsing and calculating arithmetical expressions.
+This is a Kotlin application for parsing and parsing and evaluating integer arithmetic expressions containing addition, multiplication, left/right bit shift, abs, pow(^) and square operations; besides that, variables in format of **x***number* are supported.
 
 ## Usage
 
